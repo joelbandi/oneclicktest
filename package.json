@@ -2,7 +2,8 @@
   "name": "oneclicktest",
   "displayName": "OneClickTest",
   "description": "Run tests from the right click menu",
-  "version": "0.0.1",
+  "repository": "https://github.com/joelbandi/oneclicktest",
+  "version": "1.0.0",
   "publisher": "joelbandi",
   "engines": {
     "vscode": "^1.55.0"
